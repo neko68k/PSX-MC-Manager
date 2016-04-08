@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/layout/file_row.xml",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/layout/file_row.xml"
+    },
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/layout/editheader.xml",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/layout/editheader.xml"
+    },
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/layout/nomc.xml",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/layout/nomc.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/drawable/ic_tab_artists_grey.png",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/drawable/ic_tab_artists_grey.png"
+    },
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/drawable/no_aa.png",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/drawable/no_aa.png"
+    },
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/drawable/ic_tab_artists.xml",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/drawable/ic_tab_artists.xml"
+    },
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/drawable/memcard.png",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/drawable/memcard.png"
+    },
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/drawable/plus.png",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/drawable/plus.png"
+    },
+    {
+        "merged": "/home/neko/android/proj/PSX-MC-Manager/app/build/intermediates/res/merged/debug/drawable/ic_tab_artists_white.png",
+        "source": "/home/neko/android/proj/PSX-MC-Manager/app/src/main/res/drawable/ic_tab_artists_white.png"
+    }
+]
